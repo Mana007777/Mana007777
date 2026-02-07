@@ -86,12 +86,27 @@
 
 <h3 align="center">🧪 Testing & Cybersecurity Tools</h3>
 <p align="center" style="display:flex; justify-content:center; gap:24px; flex-wrap: wrap;">
-  <img src="https://cdn.simpleicons.org/metasploit" alt="Metasploit" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/sqlite" alt="SQLMap" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/nmap" alt="Nmap" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/hashcat" alt="Hashcat" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/kali-linux" alt="Hydra" width="40" height="40"/>
+
+  <!-- Metasploit -->
+  <img src="https://cdn.simpleicons.org/metasploit/ffffff" alt="Metasploit" width="40" height="40"/>
+
+  <!-- SQLMap (no official icon → use database attack substitute) -->
+  <img src="https://cdn.simpleicons.org/mysql/ffffff" alt="SQLMap" width="40" height="40"/>
+
+  <!-- John The Ripper (password cracking category) -->
+  <img src="https://cdn.simpleicons.org/gnupg/ffffff" alt="John The Ripper" width="40" height="40"/>
+
+  <!-- Nmap (network scanning) -->
+  <img src="https://cdn.simpleicons.org/wireshark/ffffff" alt="Nmap" width="40" height="40"/>
+
+  <!-- Hashcat -->
+  <img src="https://cdn.simpleicons.org/hashcat/ffffff" alt="Hashcat" width="40" height="40"/>
+
+  <!-- Hydra (bruteforce – Kali native) -->
+  <img src="https://cdn.simpleicons.org/kali-linux/ffffff" alt="Hydra" width="40" height="40"/>
+
 </p>
+
 
 <hr>
 <h3 align="center">🚀 Currently Learning & Exploring</h3>
