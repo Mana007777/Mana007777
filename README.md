@@ -86,13 +86,13 @@
 
 <h3 align="center">🧪 Testing & Cybersecurity Tools</h3>
 <p align="center" style="display:flex; justify-content:center; gap:24px; flex-wrap: wrap;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Metasploit_logo.svg" alt="Metasploit" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/sqlmapproject/sqlmap/master/data/images/sqlmap_logo.png" alt="SQLMap" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/John_the_Ripper_logo.svg" alt="John The Ripper" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Nmap_logo.svg" alt="Nmap" width="40" height="40"/>
-  <img src="https://hashcat.net/wiki/lib/exe/fetch.php?media=hashcat_logo.png" alt="Hashcat" width="40" height="40"/>
-  <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="Hydra" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/metasploit" alt="Metasploit" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/sqlite" alt="SQLMap" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/nmap" alt="Nmap" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/hashcat" alt="Hashcat" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/kali-linux" alt="Hydra" width="40" height="40"/>
 </p>
+
 <hr>
 <h3 align="center">🚀 Currently Learning & Exploring</h3>
 <p align="center" style="display:flex; justify-content:center; gap:24px; flex-wrap: wrap;">
