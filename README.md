@@ -93,10 +93,6 @@
   <!-- SQLMap (no official icon → use database attack substitute) -->
   <img src="https://cdn.simpleicons.org/mysql/ffffff" alt="SQLMap" width="40" height="40"/>
 
-  <!-- John The Ripper (password cracking category) -->
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/johntheripper.svg"
-     alt="John The Ripper" width="40" height="40"/>
-
   <!-- Nmap (network scanning) -->
   <img src="https://cdn.simpleicons.org/wireshark/ffffff" alt="Nmap" width="40" height="40"/>
 
@@ -104,8 +100,7 @@
   <img src="https://cdn.simpleicons.org/hashcat/ffffff" alt="Hashcat" width="40" height="40"/>
 
   <!-- Hydra (bruteforce – Kali native) -->
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/thc-hydra.svg"
-     alt="Hydra" width="40" height="40"/>
+<img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="Hydra" width="40" height="40"/>
 
 </p>
 
