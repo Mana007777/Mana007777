@@ -1,14 +1,10 @@
 <!-- Anime GIF at the top -->
+<h1 align="center">Hi 👋, I'm MarllaX</h1>
+<h3 align="center">A passionate FullStack developer from Kurdistan</h3>
+
+
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDRwazJjMGFsY3dzcjR2bnAxbG1uem05N3p0aTJkeGtiaHhiZnNyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="Anime GIF" width="250"/>
-</p>
-
-<h1 align="center">Hi 👋, I'm MarllaX</h1>
-<h3 align="center">A passionate frontend & backend developer from Kurdistan</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mana007777&label=Profile%20views&color=0e75b6&style=flat" alt="mana007777" />
-  <img src="https://github-profile-trophy.vercel.app/?username=mana007777" alt="Trophies" />
 </p>
 
 <hr>
