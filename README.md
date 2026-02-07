@@ -73,15 +73,6 @@
 
 <hr>
 
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center" style="display:flex; justify-content:center; gap:24px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mana007777&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mana007777&show_icons=true&locale=en" alt="Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mana007777&" alt="Streak"/>
-</p>
-
-<hr>
-
 <h3 align="center">🚀 Currently Learning & Exploring</h3>
 <p align="center" style="display:flex; justify-content:center; gap:24px; flex-wrap: wrap;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
