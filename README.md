@@ -90,9 +90,6 @@
   <!-- Metasploit -->
   <img src="https://cdn.simpleicons.org/metasploit/ffffff" alt="Metasploit" width="40" height="40"/>
 
-  <!-- SQLMap (no official icon → use database attack substitute) -->
-  <img src="https://cdn.simpleicons.org/mysql/ffffff" alt="SQLMap" width="40" height="40"/>
-
   <!-- Nmap (network scanning) -->
   <img src="https://cdn.simpleicons.org/wireshark/ffffff" alt="Nmap" width="40" height="40"/>
 
